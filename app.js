@@ -1,5 +1,3 @@
-// Ejercicio práctico — 🛒 Lista de Súper (Parte 1) (Entrega Parcial)
-
 // 1. Instanciar un arreglo vacío guardado en listaDeSuper
 let listaDeSuper = [];
 
